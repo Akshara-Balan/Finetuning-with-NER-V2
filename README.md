@@ -1,4 +1,4 @@
-# Finetuning-with-NER-V2
+# Finetuning with NER V2
 
 The repository contains my second attempt to finetune a BERT model.
 
